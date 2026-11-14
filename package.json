@@ -18,8 +18,8 @@
   },
   "dependencies": {
     "@anthropic-ai/claude-agent-sdk": "^0.2.81",
-    "@anthropic-ai/claude-code": "^2.1.81",
-    "@anthropic-ai/sdk": "^0.80.0",
+    "@anthropic-ai/claude-code": "^2.1.251",
+    "@anthropic-ai/sdk": "^1.8.0",
     "@libsql/client": "^0.17.2",
     "@tailwindcss/vite": "^4.1.18",
     "@tanstack/react-devtools": "latest",
@@ -29,7 +29,7 @@
     "@tanstack/react-router-ssr-query": "latest",
     "@tanstack/react-start": "latest",
     "@tanstack/router-plugin": "^1.132.0",
-    "better-auth": "^1.5.5",
+    "better-auth": "^1.7.7",
     "drizzle-orm": "^0.45.1",
     "groq-sdk": "^1.1.1",
     "lucide-react": "^0.545.0",
@@ -54,9 +54,9 @@
     "drizzle-kit": "^0.31.10",
     "jsdom": "^28.1.0",
     "typescript": "^5.7.2",
-    "vite": "^7.3.1",
+    "vite": "^7.3.7",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.0.5"
+    "vitest": "^5.1.0"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
